@@ -25,7 +25,7 @@ SECRET_KEY = '-omsx1cw4&9sn&1nilucba%$-l^s=&qm*^t1&61kn(se2ks6*v'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'Katia.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'kateasteel.pythonanywhere.com']
 
 
 # Application definition
